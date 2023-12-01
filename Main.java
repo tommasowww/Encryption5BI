@@ -10,7 +10,7 @@ class Main {
     t0.start();
     try{t0.join();}
     catch {
-      System.err.println("xx");
+      System.err.println("xxx");
     }
     t1.start();
     matrix.stampa();
